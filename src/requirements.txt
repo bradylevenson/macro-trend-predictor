@@ -1,0 +1,12 @@
+streamlit
+fredapi
+pandas
+numpy
+scikit-learn
+torch
+transformers
+matplotlib
+plotly
+python-dotenv
+requests
+seaborn
