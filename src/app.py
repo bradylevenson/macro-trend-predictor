@@ -57,7 +57,7 @@ st.markdown("""
 
 # Title and layout
 st.title("GDP Growth Projector")
-st.image(r"C:\\Users\\brady\\OneDrive\\Pictures\\Screenshots\\stock_image.png", width=600)  # Path to logo file
+st.image(r"stock_image.png", width=600)  # Path to logo file
 st.sidebar.header("Input Features")
 
 # Sidebar for input features
